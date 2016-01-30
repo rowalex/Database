@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="number_of_ingridients_for_stuffer_eggs">
+        Здесь ингредиенты.\n
+    </string>
+
+    <string name="number_of_ingredients_for_anchousny_oil">
+        Масло сливочное - 25 г\n
+        Сельдь - 25 г\n
+    </string>
+
+    <string name="number_of_ingredients_for_oranges_or_limes_in_sugar">
+        На 1 кг апельсинов:\n
+        1.5 кг сахара\n
+    </string>
+    
+    <string name="number_of_ingredients_for_orange_juice_with_cream">
+        Желток яичный - 0.5 шт\n
+        Сахар - 2 ст. ложки\n
+        Сок апельсиновый - 0.25 стакана\n
+        Сливки по вкусу\n
+    </string>
+
+    <string name="number_of_ingredients_for_orange_drink">
+        Молоко - 0.75 стакана\n
+        Сок апельсиновый - 0.25 стакана\n
+        Сахар - 1 ст. ложка\n
+    </string>
+
+    <string name="number_of_ingredients_for_anchovies_or_sparts_with_potatoes">
+        5-6 шт. картофеля\n
+        1 ст. ложка растительного масла\n
+        2 ст. ложки уксуса\n
+        Соль и перец по вкусу\n
+    </string>
+
+	<string name="number_of_ingredients_for_tasty_oli_for_fish">
+        1 л растительного масла\n
+        35–50 г  петрушки\n
+        35–50 г  сельдерея\n
+        Пряности\n
+    </string>
+
+	<string name="number_of_ingredients_for_tasty_uksus">
+        1 л уксуса\n
+        100 г эстрагона\n
+        100 г сельдерея\n
+        100 г укропа\n
+    </string>
+
+<string name="number_of_ingredients_for_artishoks">
+        Артишоки\n
+        1 лимон\n
+    </string>
+<string name="number_of_ingredients_for_abricos_juice">
+        3,7 кг абрикосов\n
+        450 г сахара\n
+    </string>
+
+<string name="number_of_ingredients_for_arbus_honey">
+        1 арбуз\n
+    </string>
+<string name="number_of_ingredients_for_babka_iz_belogo">
+	500 г яблок\n
+	1 стакан молока\n
+	1 яйцо\n
+	3/4 стакана сахара\n
+	3 ст. ложки сливочного масла\n
+</string>
+
+<string name="number_of_ingredients_for_baklajani_s_lukom">
+	2 баклажана\n
+	2 головки лука\n
+	3 столовые ложки муки\n
+	1/2 стакана сметаны\n
+	3 столовые ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baklazani_v_smetane">
+	2 баклажана\n
+	1 ст. ложка муки\n
+	1 стакан сметаны\n
+	2 ст. ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baklazani_farsh">
+	2 баклажана\n
+	1 ст. ложка муки\n
+	1 стакан сметаны\n
+	2 ст. ложки масла \n
+</string>
+
+<string name="number_of_ingredients_for_baranina_jarenaya">
+	Баранина\n
+	2-3 ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_v_belom_souse">
+	500 г баранины\n
+	600 г картофеля\n
+	2 головки лука\n
+	2 шт. моркови\n
+	1 ст. ложка муки (для соуса). \n
+	1 ст. ложка масла (для соуса). \n
+</string>
+
+<string name="number_of_ingredients_for_baranina_s_zeleni">
+	500 г баранины\n
+	1 стакан фасоли\n
+	1 головку лука\n
+	2 ст. ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_s_risom">
+	Баранина\n
+	Лук\n
+	1 стакан риса\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_s_fasoliu">
+	500 г баранины\n
+	1 стакан фасоли\n
+	1 головка лука\n
+	200 г. помидоров\n
+	2 ст. ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_tushonaya_s_ovo">
+	500 г баранины\n
+	600 г картофеля\n
+	2 шт. моркови\n
+	1 головку лука\n
+	1 репу\n
+	200 г. капусты\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_smetana">
+	300 г зеленого салата\n
+	1 свежий огурец\n
+	1 яйцо\n
+	1/2 стакана соуса из сметаны с уксусом\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_oil">
+	300 г зеленого салата\n
+	1/4 стакана соуса из уксуса и растительного масла\n
+</string>
+
+<string name="number_of_ingredients_for_salad_health">
+	2 свежих огурца\n
+	2 сырых моркови\n
+	2 яблока\n
+	2 помидора\n
+	100 г зеленого салата\n
+	1/2 стакана сметаны\n
+	1/4 лимона\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_cucumbers">
+	3 огурца\n
+	1/4 стакана сметаны\n
+	1/2 ст. ложки уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_redis">
+	2–3 пучка редиски\n
+	1 яйцо\n
+	1/2 стакана сметаны\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_tomatos_and_cucum">
+	5–6 помидоров\n
+	2–3 огурца\n
+	2 ст. ложки растительного масла\n
+	3–4 ст. ложки уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_svekla">
+	2–3 шт. столовой свеклы\n
+	2 ст. ложки растительного масла\n
+	1/4 стакана уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salad_kartof">
+	500 г картофеля\n
+	50 г зеленого лука\n
+	2 ст. ложки растительного масла\n
+	1/4 стакана уксуса\n
+</string>
+
+</resources>
